@@ -2,7 +2,7 @@
 
 Este desafio tem o objetivo de criar e desenvolver um ebook com auxilio de diversas ferramentas de IAs.
 
-##  ✔ Ferramentas usadas:
+##  ✔ Ferramentas usadas
 
 ChatGPT
 
@@ -10,7 +10,7 @@ OpenAI Image
 
 PowerPoint
 
-### 🔧 Processo de desenvolvimento
+## 🔧 Processo de desenvolvimento
 
 1 - Desenvolvendo a capa do ebook: Foi utilizado a OpenAI Image para gerar a imagem, usando o prompt: A Jedi programming in Java
 
